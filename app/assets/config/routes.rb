@@ -1,0 +1,2 @@
+get 'welcome' => 'pages#home'
+
